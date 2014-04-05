@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PaperMotor.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UI\Lives.cs" Line="16" Column="60" />
+      <File FileName="Assets\Scripts\UI\UIMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\GUITextBlink.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PaperMotor.cs" Line="59" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
