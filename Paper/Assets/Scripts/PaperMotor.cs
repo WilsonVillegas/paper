@@ -6,7 +6,9 @@ public class PaperMotor : MonoBehaviour {
 	public float speed;
 	public bool hit = false;
 	public bool started = false;
+	public bool fan = false;
 	public int lives;
+	public string m_levelName;
 	float OriginalSpeed;
 	float DoubleSpeed;
 	float HalfSpeed;
@@ -23,7 +25,7 @@ public class PaperMotor : MonoBehaviour {
 	void Update () {
 		position = transform.position;
 		//Quaternion wantedRotation = new Vector3(0,0,0);
-		if(!hit && started)
+		if(!hit && started && !fan)
 		{
 			if(Input.GetButton("Jump"))
 			{
@@ -65,15 +67,26 @@ public class PaperMotor : MonoBehaviour {
 
 		lives--;
 
-		Application.LoadLevel(2);
+		Application.LoadLevel(m_levelName);
 		//hit = true;
 	}
 
-		private IEnumerator StartLevel()
+	void OnTriggerEnter(Collider other)
+	{	
+		if(other.gameObject.tag == "NegXWind")
 		{
-			yield return new WaitForSeconds(2);
-			started = true;
+			Debug.Log("Hit NegXWind zone");
 		}
+
+		Debug.Log("Hit something!");
+
+	}
+
+	private IEnumerator StartLevel()
+	{
+		yield return new WaitForSeconds(2);
+		started = true;
+	}
 
 
 

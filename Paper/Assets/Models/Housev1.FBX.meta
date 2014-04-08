@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 7e9d44a8b52300741b4e5cb37bc17605
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:0
+    100004: Layer:0 1
+    100006: Layer:0 2
+    100008: Layer:Exterior Wall
+    100010: Layer:Exterior Wall 1
+    100012: Layer:Exterior Wall 2
+    100014: Layer:floor
+    100016: Layer:floor 1
+    100018: Layer:floor 2
+    100020: Layer:floor001
+    100022: Layer:floor002
+    100024: Layer:floor003
+    100026: Layer:floor004
+    100028: Layer:floor005
+    100030: Layer:Interior Wall
+    100032: Layer:Interior Wall 1
+    100034: Layer:Interior Wall 2
+    100036: Layer:Stairs
+    100038: Layer:Stairs 1
+    100040: StraightStair001
+    100042: StraightStair002
+    400000: //RootNode
+    400002: Layer:0
+    400004: Layer:0 1
+    400006: Layer:0 2
+    400008: Layer:Exterior Wall
+    400010: Layer:Exterior Wall 1
+    400012: Layer:Exterior Wall 2
+    400014: Layer:floor
+    400016: Layer:floor 1
+    400018: Layer:floor 2
+    400020: Layer:floor001
+    400022: Layer:floor002
+    400024: Layer:floor003
+    400026: Layer:floor004
+    400028: Layer:floor005
+    400030: Layer:Interior Wall
+    400032: Layer:Interior Wall 1
+    400034: Layer:Interior Wall 2
+    400036: Layer:Stairs
+    400038: Layer:Stairs 1
+    400040: StraightStair001
+    400042: StraightStair002
+    2300000: Layer:Exterior Wall
+    2300002: Layer:Exterior Wall 1
+    2300004: Layer:floor
+    2300006: Layer:floor 1
+    2300008: Layer:floor001
+    2300010: Layer:floor002
+    2300012: Layer:floor003
+    2300014: Layer:floor004
+    2300016: Layer:floor005
+    2300018: Layer:Interior Wall
+    2300020: Layer:Interior Wall 1
+    2300022: StraightStair001
+    2300024: StraightStair002
+    3300000: Layer:Exterior Wall
+    3300002: Layer:Exterior Wall 1
+    3300004: Layer:floor
+    3300006: Layer:floor 1
+    3300008: Layer:floor001
+    3300010: Layer:floor002
+    3300012: Layer:floor003
+    3300014: Layer:floor004
+    3300016: Layer:floor005
+    3300018: Layer:Interior Wall
+    3300020: Layer:Interior Wall 1
+    3300022: StraightStair001
+    3300024: StraightStair002
+    4300000: StraightStair001
+    4300002: StraightStair002
+    4300004: Layer:Interior Wall
+    4300006: Layer:Exterior Wall
+    4300008: Layer:floor
+    4300010: Layer:Interior Wall
+    4300012: Layer:Exterior Wall
+    4300014: Layer:floor
+    4300016: Layer:floor001
+    4300018: Layer:floor002
+    4300020: Layer:floor003
+    4300022: Layer:floor004
+    4300024: Layer:floor005
+    6400000: Layer:Exterior Wall
+    6400002: Layer:Exterior Wall 1
+    6400004: Layer:floor
+    6400006: Layer:floor 1
+    6400008: Layer:floor001
+    6400010: Layer:floor002
+    6400012: Layer:floor003
+    6400014: Layer:floor004
+    6400016: Layer:floor005
+    6400018: Layer:Interior Wall
+    6400020: Layer:Interior Wall 1
+    6400022: StraightStair001
+    6400024: StraightStair002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
