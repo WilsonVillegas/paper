@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 10e9353721d4922448f4a15565fc7da7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BackLeftLeg
+    100002: BackRightLeg
+    100004: CoachBack
+    100006: CoachBody
+    100008: //RootNode
+    100010: FrontLeftLeg
+    100012: FrontRightLeg
+    100014: group1
+    100016: nurbsCircle1
+    100018: pCircle1
+    100020: pCone1
+    100022: pCone2
+    100024: pCylinder1
+    100026: Pillow
+    100028: Pillow1
+    100030: transform1
+    100032: transform2
+    100034: transform3
+    400000: BackLeftLeg
+    400002: BackRightLeg
+    400004: CoachBack
+    400006: CoachBody
+    400008: //RootNode
+    400010: FrontLeftLeg
+    400012: FrontRightLeg
+    400014: group1
+    400016: nurbsCircle1
+    400018: pCircle1
+    400020: pCone1
+    400022: pCone2
+    400024: pCylinder1
+    400026: Pillow
+    400028: Pillow1
+    400030: transform1
+    400032: transform2
+    400034: transform3
+    2300000: BackLeftLeg
+    2300002: BackRightLeg
+    2300004: CoachBack
+    2300006: CoachBody
+    2300008: FrontLeftLeg
+    2300010: FrontRightLeg
+    2300012: pCircle1
+    2300014: Pillow
+    2300016: Pillow1
+    3300000: BackLeftLeg
+    3300002: BackRightLeg
+    3300004: CoachBack
+    3300006: CoachBody
+    3300008: FrontLeftLeg
+    3300010: FrontRightLeg
+    3300012: pCircle1
+    3300014: Pillow
+    3300016: Pillow1
+    4300000: CoachBody
+    4300002: CoachBack
+    4300004: pCircle1
+    4300006: FrontLeftLeg
+    4300008: BackLeftLeg
+    4300010: FrontRightLeg
+    4300012: BackRightLeg
+    4300014: Pillow
+    4300016: Pillow1
+    6400000: BackLeftLeg
+    6400002: BackRightLeg
+    6400004: CoachBack
+    6400006: CoachBody
+    6400008: FrontLeftLeg
+    6400010: FrontRightLeg
+    6400012: pCircle1
+    6400014: Pillow
+    6400016: Pillow1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
