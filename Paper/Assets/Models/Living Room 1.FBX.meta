@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: db9757506b399774280e3e7b2a37960a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Layer:doors
+    100002: Layer:Exterior Wall
+    100004: Layer:floor
+    100006: Layer:floor 1
+    100008: Layer:floor001
+    100010: Layer:Interior Wall
+    100012: Layer:Interior Wall 1
+    100014: Layer:Interior Wall001
+    100016: Layer:Stairs
+    100018: Layer:Stairs 1
+    100020: Layer:windows
+    100022: Layer:windows 1
+    100024: Layer:windows001
+    100026: //RootNode
+    100028: Object003
+    100030: Object004
+    100032: Object005
+    100034: Object006
+    100036: Object007
+    100038: Object008
+    100040: Object009
+    100042: Object010
+    100044: Object011
+    100046: Object012
+    100048: Object013
+    100050: Object014
+    100052: Object015
+    100054: walls 002
+    100056: walls 1
+    400000: Layer:doors
+    400002: Layer:Exterior Wall
+    400004: Layer:floor
+    400006: Layer:floor 1
+    400008: Layer:floor001
+    400010: Layer:Interior Wall
+    400012: Layer:Interior Wall 1
+    400014: Layer:Interior Wall001
+    400016: Layer:Stairs
+    400018: Layer:Stairs 1
+    400020: Layer:windows
+    400022: Layer:windows 1
+    400024: Layer:windows001
+    400026: //RootNode
+    400028: Object003
+    400030: Object004
+    400032: Object005
+    400034: Object006
+    400036: Object007
+    400038: Object008
+    400040: Object009
+    400042: Object010
+    400044: Object011
+    400046: Object012
+    400048: Object013
+    400050: Object014
+    400052: Object015
+    400054: walls 002
+    400056: walls 1
+    2300000: Layer:doors
+    2300002: Layer:floor
+    2300004: Layer:floor001
+    2300006: Layer:Interior Wall
+    2300008: Layer:Interior Wall001
+    2300010: Object003
+    2300012: Object004
+    2300014: Object005
+    2300016: Object006
+    2300018: Object007
+    2300020: Object008
+    2300022: Object009
+    2300024: Object010
+    2300026: Object011
+    2300028: Object012
+    2300030: Object013
+    2300032: Object014
+    2300034: Object015
+    2300036: walls 002
+    2300038: walls 1
+    3300000: Layer:doors
+    3300002: Layer:floor
+    3300004: Layer:floor001
+    3300006: Layer:Interior Wall
+    3300008: Layer:Interior Wall001
+    3300010: Object003
+    3300012: Object004
+    3300014: Object005
+    3300016: Object006
+    3300018: Object007
+    3300020: Object008
+    3300022: Object009
+    3300024: Object010
+    3300026: Object011
+    3300028: Object012
+    3300030: Object013
+    3300032: Object014
+    3300034: Object015
+    3300036: walls 002
+    3300038: walls 1
+    4300000: Layer:Interior Wall
+    4300002: Layer:floor
+    4300004: walls 1
+    4300006: Object003
+    4300008: Object004
+    4300010: Object005
+    4300012: Object006
+    4300014: Object007
+    4300016: Layer:Interior Wall001
+    4300018: Layer:floor001
+    4300020: walls 002
+    4300022: Object008
+    4300024: Object009
+    4300026: Object010
+    4300028: Object011
+    4300030: Object012
+    4300032: Object013
+    4300034: Object014
+    4300036: Layer:doors
+    4300038: Object015
+    6400000: Layer:doors
+    6400002: Layer:floor
+    6400004: Layer:floor001
+    6400006: Layer:Interior Wall
+    6400008: Layer:Interior Wall001
+    6400010: Object003
+    6400012: Object004
+    6400014: Object005
+    6400016: Object006
+    6400018: Object007
+    6400020: Object008
+    6400022: Object009
+    6400024: Object010
+    6400026: Object011
+    6400028: Object012
+    6400030: Object013
+    6400032: Object014
+    6400034: Object015
+    6400036: walls 002
+    6400038: walls 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
