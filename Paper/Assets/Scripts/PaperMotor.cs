@@ -65,7 +65,7 @@ public class PaperMotor : MonoBehaviour {
 
 		lives--;
 
-		Application.LoadLevel(2);
+		Application.LoadLevel(1);
 		//hit = true;
 	}
 
