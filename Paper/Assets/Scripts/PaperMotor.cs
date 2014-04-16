@@ -34,6 +34,9 @@ public class PaperMotor : MonoBehaviour {
 			else
 				speed = OriginalSpeed;
 
+			
+
+
 			#region Horizontal Rotation
 			if(Input.GetAxis("Horizontal") > 0)
 				transform.Rotate(0,30 * Time.deltaTime,0);
@@ -48,6 +51,8 @@ public class PaperMotor : MonoBehaviour {
 				transform.Rotate(30 * Time.deltaTime, 0,0);
 			else if(Input.GetAxis("Vertical") > 0)
 				transform.Rotate(-30 * Time.deltaTime, 0,0);
+			else
+				transform.Rotate(-3 * Time.deltaTime, 0,0);
 			//else
 				//transform.rotation = Quaternion.Slerp (transform.rotation, Quaternion.Euler(0, 180,0), (Time.smoothDeltaTime + Time.deltaTime)/2 * 5.0f);
 			#endregion
