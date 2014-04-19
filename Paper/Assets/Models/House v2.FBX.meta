@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: a9ede024c89b9a34681c6f4fdd526e46
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Block:16'' Round Table
+    100002: Block:16'' Round Table 1
+    100004: Block:16'' Round Table 2
+    100006: Block:16'' Round Table 3
+    100008: Block:16'' Round Table 4
+    100010: Block:16'' Round Table 5
+    100012: Block:24'' Night Stand
+    100014: Block:24'' Night Stand 1
+    100016: Block:24'' Night Stand 2
+    100018: Block:6' Round Sofa
+    100020: Block:6' Round Sofa 1
+    100022: Block:6' Round Sofa 2
+    100024: Block:Bar Stool 2
+    100026: Block:Bar Stool 2 1
+    100028: Block:Bar Stool 2 2
+    100030: Block:Bar Stool 2 3
+    100032: Block:Bar Stool 2 4
+    100034: Block:Bar Stool 2 5
+    100036: Block:Coffee Table
+    100038: Block:Coffee Table 1
+    100040: Block:Coffee Table 2
+    100042: Block:Coffee Table 3
+    100044: Block:Coffee Table 4
+    100046: Block:Coffee Table 5
+    100048: Block:Dining Chair
+    100050: Block:Dining Chair 1
+    100052: Block:Dining Chair 10
+    100054: Block:Dining Chair 11
+    100056: Block:Dining Chair 2
+    100058: Block:Dining Chair 3
+    100060: Block:Dining Chair 4
+    100062: Block:Dining Chair 5
+    100064: Block:Dining Chair 6
+    100066: Block:Dining Chair 7
+    100068: Block:Dining Chair 8
+    100070: Block:Dining Chair 9
+    100072: Block:Executive Armchair 2
+    100074: Block:Executive Armchair 2 1
+    100076: Block:Executive Armchair 2 2
+    100078: Block:Plant 2
+    100080: Block:Plant 2 1
+    100082: Block:Plant 2 2
+    100084: Block:Plant 2 3
+    100086: Block:Plant 2 4
+    100088: Block:Plant 2 5
+    100090: Block:Rocking Chair
+    100092: Block:Rocking Chair 1
+    100094: Block:Rocking Chair 2
+    100096: Block:Rocking Chair 3
+    100098: Block:Rocking Chair 4
+    100100: Block:Rocking Chair 5
+    100102: Block:Rocking Chair 6
+    100104: Block:Rocking Chair 7
+    100106: Block:Rocking Chair 8
+    100108: Block:Twin Bed
+    100110: Block:Twin Bed 1
+    100112: Block:Twin Bed 2
+    100114: Box001
+    100116: Box007
+    100118: //RootNode
+    100120: Layer:0
+    100122: Layer:0 1
+    100124: Layer:001
+    100126: Layer:Block origin
+    100128: Layer:Block origin 1
+    100130: Layer:Exterior Wall
+    100132: Layer:Exterior Wall 1
+    100134: Layer:floor
+    100136: Layer:floor 1
+    100138: Layer:Furnishings
+    100140: Layer:Furnishings 1
+    100142: Layer:Furnishings 10
+    100144: Layer:Furnishings 11
+    100146: Layer:Furnishings 12
+    100148: Layer:Furnishings 13
+    100150: Layer:Furnishings 14
+    100152: Layer:Furnishings 15
+    100154: Layer:Furnishings 16
+    100156: Layer:Furnishings 17
+    100158: Layer:Furnishings 18
+    100160: Layer:Furnishings 19
+    100162: Layer:Furnishings 2
+    100164: Layer:Furnishings 20
+    100166: Layer:Furnishings 21
+    100168: Layer:Furnishings 22
+    100170: Layer:Furnishings 23
+    100172: Layer:Furnishings 24
+    100174: Layer:Furnishings 25
+    100176: Layer:Furnishings 26
+    100178: Layer:Furnishings 27
+    100180: Layer:Furnishings 28
+    100182: Layer:Furnishings 29
+    100184: Layer:Furnishings 3
+    100186: Layer:Furnishings 30
+    100188: Layer:Furnishings 31
+    100190: Layer:Furnishings 32
+    100192: Layer:Furnishings 33
+    100194: Layer:Furnishings 34
+    100196: Layer:Furnishings 35
+    100198: Layer:Furnishings 36
+    100200: Layer:Furnishings 37
+    100202: Layer:Furnishings 38
+    100204: Layer:Furnishings 39
+    100206: Layer:Furnishings 4
+    100208: Layer:Furnishings 40
+    100210: Layer:Furnishings 41
+    100212: Layer:Furnishings 42
+    100214: Layer:Furnishings 43
+    100216: Layer:Furnishings 44
+    100218: Layer:Furnishings 45
+    100220: Layer:Furnishings 46
+    100222: Layer:Furnishings 47
+    100224: Layer:Furnishings 48
+    100226: Layer:Furnishings 49
+    100228: Layer:Furnishings 5
+    100230: Layer:Furnishings 50
+    100232: Layer:Furnishings 51
+    100234: Layer:Furnishings 52
+    100236: Layer:Furnishings 53
+    100238: Layer:Furnishings 54
+    100240: Layer:Furnishings 55
+    100242: Layer:Furnishings 56
+    100244: Layer:Furnishings 57
+    100246: Layer:Furnishings 58
+    100248: Layer:Furnishings 59
+    100250: Layer:Furnishings 6
+    100252: Layer:Furnishings 7
+    100254: Layer:Furnishings 8
+    100256: Layer:Furnishings 9
+    100258: Layer:Interior Wall
+    100260: Layer:Interior Wall 1
+    100262: Layer:Layer002
+    100264: Layer:Layer1
+    100266: Layer:Layer1 1
+    100268: Layer:Stairs
+    100270: Layer:Stairs 1
+    100272: Layer:windows
+    100274: Layer:windows 1
+    100276: Layer:windows001
+    100278: Object001
+    100280: Object002
+    100282: Object003
+    100284: Object005
+    100286: Object007
+    100288: Object008
+    100290: Object009
+    100292: StraightStair001
+    400000: Block:16'' Round Table
+    400002: Block:16'' Round Table 1
+    400004: Block:16'' Round Table 2
+    400006: Block:16'' Round Table 3
+    400008: Block:16'' Round Table 4
+    400010: Block:16'' Round Table 5
+    400012: Block:24'' Night Stand
+    400014: Block:24'' Night Stand 1
+    400016: Block:24'' Night Stand 2
+    400018: Block:6' Round Sofa
+    400020: Block:6' Round Sofa 1
+    400022: Block:6' Round Sofa 2
+    400024: Block:Bar Stool 2
+    400026: Block:Bar Stool 2 1
+    400028: Block:Bar Stool 2 2
+    400030: Block:Bar Stool 2 3
+    400032: Block:Bar Stool 2 4
+    400034: Block:Bar Stool 2 5
+    400036: Block:Coffee Table
+    400038: Block:Coffee Table 1
+    400040: Block:Coffee Table 2
+    400042: Block:Coffee Table 3
+    400044: Block:Coffee Table 4
+    400046: Block:Coffee Table 5
+    400048: Block:Dining Chair
+    400050: Block:Dining Chair 1
+    400052: Block:Dining Chair 10
+    400054: Block:Dining Chair 11
+    400056: Block:Dining Chair 2
+    400058: Block:Dining Chair 3
+    400060: Block:Dining Chair 4
+    400062: Block:Dining Chair 5
+    400064: Block:Dining Chair 6
+    400066: Block:Dining Chair 7
+    400068: Block:Dining Chair 8
+    400070: Block:Dining Chair 9
+    400072: Block:Executive Armchair 2
+    400074: Block:Executive Armchair 2 1
+    400076: Block:Executive Armchair 2 2
+    400078: Block:Plant 2
+    400080: Block:Plant 2 1
+    400082: Block:Plant 2 2
+    400084: Block:Plant 2 3
+    400086: Block:Plant 2 4
+    400088: Block:Plant 2 5
+    400090: Block:Rocking Chair
+    400092: Block:Rocking Chair 1
+    400094: Block:Rocking Chair 2
+    400096: Block:Rocking Chair 3
+    400098: Block:Rocking Chair 4
+    400100: Block:Rocking Chair 5
+    400102: Block:Rocking Chair 6
+    400104: Block:Rocking Chair 7
+    400106: Block:Rocking Chair 8
+    400108: Block:Twin Bed
+    400110: Block:Twin Bed 1
+    400112: Block:Twin Bed 2
+    400114: Box001
+    400116: Box007
+    400118: //RootNode
+    400120: Layer:0
+    400122: Layer:0 1
+    400124: Layer:001
+    400126: Layer:Block origin
+    400128: Layer:Block origin 1
+    400130: Layer:Exterior Wall
+    400132: Layer:Exterior Wall 1
+    400134: Layer:floor
+    400136: Layer:floor 1
+    400138: Layer:Furnishings
+    400140: Layer:Furnishings 1
+    400142: Layer:Furnishings 10
+    400144: Layer:Furnishings 11
+    400146: Layer:Furnishings 12
+    400148: Layer:Furnishings 13
+    400150: Layer:Furnishings 14
+    400152: Layer:Furnishings 15
+    400154: Layer:Furnishings 16
+    400156: Layer:Furnishings 17
+    400158: Layer:Furnishings 18
+    400160: Layer:Furnishings 19
+    400162: Layer:Furnishings 2
+    400164: Layer:Furnishings 20
+    400166: Layer:Furnishings 21
+    400168: Layer:Furnishings 22
+    400170: Layer:Furnishings 23
+    400172: Layer:Furnishings 24
+    400174: Layer:Furnishings 25
+    400176: Layer:Furnishings 26
+    400178: Layer:Furnishings 27
+    400180: Layer:Furnishings 28
+    400182: Layer:Furnishings 29
+    400184: Layer:Furnishings 3
+    400186: Layer:Furnishings 30
+    400188: Layer:Furnishings 31
+    400190: Layer:Furnishings 32
+    400192: Layer:Furnishings 33
+    400194: Layer:Furnishings 34
+    400196: Layer:Furnishings 35
+    400198: Layer:Furnishings 36
+    400200: Layer:Furnishings 37
+    400202: Layer:Furnishings 38
+    400204: Layer:Furnishings 39
+    400206: Layer:Furnishings 4
+    400208: Layer:Furnishings 40
+    400210: Layer:Furnishings 41
+    400212: Layer:Furnishings 42
+    400214: Layer:Furnishings 43
+    400216: Layer:Furnishings 44
+    400218: Layer:Furnishings 45
+    400220: Layer:Furnishings 46
+    400222: Layer:Furnishings 47
+    400224: Layer:Furnishings 48
+    400226: Layer:Furnishings 49
+    400228: Layer:Furnishings 5
+    400230: Layer:Furnishings 50
+    400232: Layer:Furnishings 51
+    400234: Layer:Furnishings 52
+    400236: Layer:Furnishings 53
+    400238: Layer:Furnishings 54
+    400240: Layer:Furnishings 55
+    400242: Layer:Furnishings 56
+    400244: Layer:Furnishings 57
+    400246: Layer:Furnishings 58
+    400248: Layer:Furnishings 59
+    400250: Layer:Furnishings 6
+    400252: Layer:Furnishings 7
+    400254: Layer:Furnishings 8
+    400256: Layer:Furnishings 9
+    400258: Layer:Interior Wall
+    400260: Layer:Interior Wall 1
+    400262: Layer:Layer002
+    400264: Layer:Layer1
+    400266: Layer:Layer1 1
+    400268: Layer:Stairs
+    400270: Layer:Stairs 1
+    400272: Layer:windows
+    400274: Layer:windows 1
+    400276: Layer:windows001
+    400278: Object001
+    400280: Object002
+    400282: Object003
+    400284: Object005
+    400286: Object007
+    400288: Object008
+    400290: Object009
+    400292: StraightStair001
+    2300000: Box001
+    2300002: Box007
+    2300004: Layer:0
+    2300006: Layer:001
+    2300008: Layer:Block origin 1
+    2300010: Layer:Exterior Wall
+    2300012: Layer:floor 1
+    2300014: Layer:Interior Wall 1
+    2300016: Layer:Layer002
+    2300018: Layer:Layer1 1
+    2300020: Layer:windows 1
+    2300022: Layer:windows001
+    2300024: Object001
+    2300026: Object002
+    2300028: Object003
+    2300030: Object005
+    2300032: Object007
+    2300034: Object008
+    2300036: Object009
+    2300038: StraightStair001
+    3300000: Box001
+    3300002: Box007
+    3300004: Layer:0
+    3300006: Layer:001
+    3300008: Layer:Block origin 1
+    3300010: Layer:Exterior Wall
+    3300012: Layer:floor 1
+    3300014: Layer:Interior Wall 1
+    3300016: Layer:Layer002
+    3300018: Layer:Layer1 1
+    3300020: Layer:windows 1
+    3300022: Layer:windows001
+    3300024: Object001
+    3300026: Object002
+    3300028: Object003
+    3300030: Object005
+    3300032: Object007
+    3300034: Object008
+    3300036: Object009
+    3300038: StraightStair001
+    4300000: Layer:Interior Wall
+    4300002: Layer:Exterior Wall
+    4300004: Layer:windows
+    4300006: Layer:floor
+    4300008: Layer:Block origin
+    4300010: StraightStair001
+    4300012: Layer:windows001
+    4300014: Object001
+    4300016: Layer:0
+    4300018: Layer:Layer1
+    4300020: Object002
+    4300022: Object003
+    4300024: Object005
+    4300026: Object007
+    4300028: Box001
+    4300030: Box007
+    4300032: Object008
+    4300034: Object009
+    4300036: Layer:Layer002
+    4300038: Layer:001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

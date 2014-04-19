@@ -6,7 +6,7 @@ public class PaperMotor : MonoBehaviour {
 	public float speed;
 	public bool hit = false;
 	public bool started = false;
-	public bool fan = false;
+	private bool fan;
 	public int lives;
 	public string m_levelName;
 	float OriginalSpeed;
@@ -19,6 +19,7 @@ public class PaperMotor : MonoBehaviour {
 		StartCoroutine(StartLevel());
 		OriginalSpeed = speed;
 		HalfSpeed = speed/4;
+		fan = false;
 	}
 	
 	// Update is called once per frame
@@ -59,10 +60,10 @@ public class PaperMotor : MonoBehaviour {
 
 			transform.Translate(0,0, speed * Time.deltaTime);
 		}
-		if(hit)
+		if(fan)
 		{
-			transform.Translate(0,speed * Time.deltaTime / 5, 0);
-			transform.Rotate(-10 * Time.deltaTime, 0,0);
+			transform.Translate(speed * Time.deltaTime, 0, 0);
+			transform.Rotate(-30 * Time.deltaTime, 0,0);
 		}
 	}
 
@@ -82,6 +83,7 @@ public class PaperMotor : MonoBehaviour {
 		if(other.gameObject.tag == "NegXWind")
 		{
 			Debug.Log("Hit NegXWind zone");
+			fan = true;
 		}
 
 		Debug.Log("Hit something!");
