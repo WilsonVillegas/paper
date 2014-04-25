@@ -12,6 +12,7 @@ public class PaperMotor : MonoBehaviour {
 	public string m_levelName;
 	float OriginalSpeed;
 	float DoubleSpeed;
+	public int set = 0;
 	float HalfSpeed;
 	public Vector3 startPosition;
 	public Vector3 startRotation;
@@ -45,6 +46,16 @@ public class PaperMotor : MonoBehaviour {
 				Time.timeScale =1;				
 				paused = false;
 			}
+		}
+
+		if (collectibles >= 6 && set == 0)
+		{
+			
+			Pieces[6].gameObject.SetActive(false);
+			
+			Pieces[7].gameObject.SetActive(true);
+			set++;
+
 		}
 
 		if(!hit && started && !fan)
@@ -111,6 +122,11 @@ public class PaperMotor : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
 	{	
+		if(other.gameObject.tag == "End Game")
+		{
+			Debug.Log("Hit End Box");
+			Application.LoadLevel(1);
+		}
 		if(other.gameObject.tag == "NegXWind")
 		{
 			Debug.Log("Hit NegXWind zone");
@@ -158,26 +174,14 @@ public class PaperMotor : MonoBehaviour {
 			collectibles++;
 			Pieces[5].gameObject.SetActive(true);
 		}
-		if(other.gameObject.tag == "Piece 7")
+		if(other.gameObject.tag == "Switch")
 		{
-			Debug.Log("Hit Seventh Piece");
+			Debug.Log("Hit Switch Piece");
 			Destroy(other.gameObject);
 			collectibles++;
-			Pieces[6].gameObject.SetActive(true);
-		}
-		if(other.gameObject.tag == "Piece 8")
-		{
-			Debug.Log("Hit Eighth Piece");
-			Destroy(other.gameObject);
-			collectibles++;
-			Pieces[7].gameObject.SetActive(true);
-		}
-		if(other.gameObject.tag == "Piece 9")
-		{
-			Debug.Log("Hit Ninth Piece");
-			Destroy(other.gameObject);
-			collectibles++;
-			Pieces[8].gameObject.SetActive(true);
+			Pieces[8].gameObject.SetActive(false);
+			Pieces[9].gameObject.animation.Stop();
+			Pieces[9].gameObject.audio.Stop();
 		}
 
 		Debug.Log("Hit something!");
