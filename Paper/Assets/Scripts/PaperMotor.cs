@@ -34,7 +34,7 @@ public class PaperMotor : MonoBehaviour {
 	void Update () {
 		//Quaternion wantedRotation = new Vector3(0,0,0);
 
-		if (Input.GetKeyDown("p"))
+		if (Input.GetKeyDown("p") || Input.GetKeyDown("escape") )
 		{
 			if(!paused)
 			{
@@ -62,10 +62,10 @@ public class PaperMotor : MonoBehaviour {
 		{
 			if(Input.GetButton("Jump"))
 			{
-				speed = HalfSpeed;
+				speed = OriginalSpeed;
 			}
 			else
-				speed = OriginalSpeed;
+				speed = HalfSpeed;
 
 			
 
@@ -178,7 +178,6 @@ public class PaperMotor : MonoBehaviour {
 		{
 			Debug.Log("Hit Switch Piece");
 			Destroy(other.gameObject);
-			collectibles++;
 			Pieces[8].gameObject.SetActive(false);
 			Pieces[9].gameObject.animation.Stop();
 			Pieces[9].gameObject.audio.Stop();
